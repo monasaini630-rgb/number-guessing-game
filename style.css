@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #43cea2, #185a9d);
+    color: white;
+    text-align: center;
+}
+
+.game-container {
+    background: rgba(0,0,0,0.3);
+    width: 350px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+input {
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.reset {
+    margin-top: 10px;
+}
+
+.stats {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
